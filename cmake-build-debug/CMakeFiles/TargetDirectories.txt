@@ -1,0 +1,3 @@
+/Volumes/MAC2/CLionProjects/FileIOTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/MAC2/CLionProjects/FileIOTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/MAC2/CLionProjects/FileIOTest/cmake-build-debug/CMakeFiles/FileIOTest.dir
